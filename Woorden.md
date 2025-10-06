@@ -1,5 +1,10 @@
+## Algemene termen ##
 
-Concept wordenlijst met beschrijvingen in Nederlands. De volgende 
+TBD 
+
+## Peppol BIS termen ##
+
+Concept wordenlijst met beschrijvingen in Nederlands. De volgende termen uit Peppol BIS documenten worden soms verschillend geinterpreteerd. 
 
 | Veld |  Explanation | Uitleg |
 |------|--------------|--------|
@@ -13,3 +18,5 @@ Concept wordenlijst met beschrijvingen in Nederlands. De volgende
 | cbc:PriceAmount | Item net price      |  Netto prijs            |
 | cbc:Amount      | Item price discount |  Korting op bruto prijs |
 | cbc:BaseAmount  | Item gross price    |  Bruto prijs            |
+
+In sommige gevallen is de aanwezigheid van vergelijkbare velden die tot fouten leidt. Bijvoorbeeld Duedate en Enddate worden door elkaar gehaald. Door een linked data relate te leggen die aangeeft dat het verschillende termen zijn kan dit verduidelijkt worden.
