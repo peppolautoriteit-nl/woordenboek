@@ -14,7 +14,7 @@ Concept wordenlijst met beschrijvingen in Nederlands. De volgende termen uit Pep
 | cbc:StartDate   | Invoicing period start date | Begindatum factuurperiode |
 | cbc:EndDate     | Invoicing period end date   | Einddatum factuurperiode  |
 | cbc:ID          | Purchase order reference    | Inkoopordernummer         |
-| cac:Price       |                             |                           |
+| cac:Price       | _Aggregate tag to contain the fields below_  |          |
 | cbc:PriceAmount | Item net price      |  Netto prijs            |
 | cbc:Amount      | Item price discount |  Korting op bruto prijs |
 | cbc:BaseAmount  | Item gross price    |  Bruto prijs            |
