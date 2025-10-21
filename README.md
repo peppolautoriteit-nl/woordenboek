@@ -11,4 +11,4 @@ Het Peppol woordenboek geeft definities van de termen in Peppol documenten. Door
 
 ## Begrippen
 
-Voorlopig lijst met begrippen en beschrijving.
+[Voorlopige lijst met begrippen en beschrijving](Woorden.md)
